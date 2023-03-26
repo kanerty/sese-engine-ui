@@ -23,7 +23,7 @@ Se 是 Search 的缩写，所以就是色色引擎。开始搜索就是「**开�
 - 前端：<https://github.com/YunYouJun/sese-engine-ui>
 - 后端：<https://github.com/RimoChan/sese-engine>
 
-### 用处展望
+### 用处展望喵
 
 <details open>
 <summary>莉沫酱的想法</summary>
