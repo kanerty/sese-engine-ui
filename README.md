@@ -18,7 +18,7 @@ Se 是 Search 的缩写，所以就是色色引擎。开始搜索就是「**开�
 
 > 具体见 [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine)
 
-### 相关链接
+### 相关链接捏
 
 - 前端：<https://github.com/YunYouJun/sese-engine-ui>
 - 后端：<https://github.com/RimoChan/sese-engine>
